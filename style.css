@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@600&display=swap');
+body{
+    background-color: rgb(206, 255, 255);
+    font-family: 'Anek Bangla', sans-serif;
+}
+.label
+{
+    width: 500px;
+    height: 50px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    cursor: default;
+    font-family: 'Anek Bangla', sans-serif;
+    background-color: coral;
+}
